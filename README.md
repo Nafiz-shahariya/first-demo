@@ -1,3 +1,3 @@
 # first-demo
-This is my first reposittory
-author Nafiz Shahariya
+This is my first reposittory. <br>
+Author Nafiz Shahariya.
